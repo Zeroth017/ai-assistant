@@ -1,2 +1,2 @@
 # ai-assistant
-AI Assistant React Native Version
+AI Assistant
